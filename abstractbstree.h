@@ -1,20 +1,9 @@
-/* @file: abstractbstree.h
- * Definition of templated class abstractbstree
- * Implementation of Binary Search Tree A.D.T.
- * @C - Galaxy Express Software
- *
- * Version 14.1.0
- */
-/*  _____________________________
- * /                             \
- * | Abstract Binary Search Tree |
- * \_____________________________/
- *
- * Purpose: A template abstract class that defines a Binary Search Tree
- * 
- * Preconditions: typename T MUST support the '<' operator
- *
- */
+//////////////////////////////////////////////////////////////////////
+/// @file abstractbstree.h
+/// @author Timothy Buesking
+/// @brief This header file declares the Abstract Binary Search Tree
+////////////////////////////////////////////////////////////////////// 
+
 
 #ifndef ABSTRACTBSTREE_H
 #define ABSTRACTBSTREE_H
